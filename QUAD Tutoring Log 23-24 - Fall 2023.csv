@@ -1,0 +1,392 @@
+Date,Time,Tutor,QUAD or CS?,Student Name,Email (prize),Class,Programming,Topic,Helped? (Y/N)
+,,,,,@willamette.edu,,,,
+9/5/2023,6:05,Indi,QUAD,Jackson,jbspector@willamette.edu,CS 151,Python,karel,Y
+9/5/2023,6:28,Indi,QUAD,Bradley,,MATH 251W,-,existential and universal quantifiers,Y
+9/5/2023,6:43,Indi,QUAD,,,MATH 251W,-,,Y
+9/5/2023,7:30,Indi,QUAD,0,0,0,0,,
+9/6/2023,3:00,Mitchell,QUAD,Jackson,jbspector@willamette.edu,DATA 351,SQL,HW1,Y
+9/6/2023,4:30,Mitchell,QUAD,Kendall,kfleonard@willamette.edu,MATH 251W,-,,Y
+9/7/2023,3:25,Sadie/Spencer,QUAD,Jackson,jbspector@willamette.edu,CS 151,Python,Loops in Karel,Y
+9/7/2023,9:00,0,0,0,0,0,0,0,0
+9/7/2023,6:58,Indi,QUAD,Bradley,,MATH 251W,-,,Y
+9/7/2023,7:30,Indi,QUAD,0,0,0,0,,
+9/8/2023,3:20,Tiffany,QUAD,Josie ,jlpipatanangkura@willamette.edu,BIOL 342,R,Exploring usages of R for different datasets,Y
+9/10/2023,4:31,Brooke,QUAD,Charlie,cbmicheal@willamette.edu,CS 151,Python,Karel ,Y
+9/10/2023,4:35,Tiffany,QUAD,Josie ,jlpipatanangkura@willamette.edu,BIOL 342,R,Grouping X variable,Y
+9/11/2023,5:58,Safia,QUAD,0,0,0,0,0,0
+9/11/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,0
+9/11/2023,7:30 PM,Sophia,QUAD,0,0,0,0,0,0
+9/11/2023,9:00,Sophia,QUAD,0,0,0,0,0,0
+9/12/2023,7:39,Courtney,QUAD,Lucca,lmbraudagan@willamette.edu,DATA 151,-,Specific Statistic Wording on HW,Y/N
+9/12/2023,7:10,Indi,QUAD,Bradley,,MATH 251W,-,,Y
+9/12/2023,7:40,Indi,QUAD,Allison,akruskell@willamette.edu,MATH 256,-,,Y
+9/12/2023,7:01,Indi,QUAD,,,MATH 138,-,,Y
+9/13/2023,3:00,Thomas/Destiny,QUAD,David Erlich,dlerlich@willamette.edu,CS 151,Python,Karel,Y
+9/13/2023,3:30,Thomas,QUAD,John,,DATA 501,R,Deleting column from data frame,Y
+9/13/2023,6:30,Kendall,QUAD,Izzy,,DATA 151,0,Homework #2,Y
+9/13/2023,6:00,Kendall,QUAD,Destiny,,DATA 351,SQL,Homework #2,Y
+9/13/2023,6:00,Kendall,QUAD,Jackson,,DATA 351,SQL,Homework #2,Y
+9/13/2023,7:45,Kendall,QUAD,Charlie,,CS 151,Python,Karel,N
+9/13/2023,5:30,Sophia/Spencer,QUAD,David,ddihn@willamette.edu,DATA 501,R,Syntax; basic coding,Y
+9/14/2023,3:07,Sadie/Spencer,QUAD,,,DATA 151,-,Statistics,Y
+9/14/2023,3:25,Sadie,QUAD,Josie,,DATA 151,R,Error Bars on Graphs,
+9/14/2023,5:20,Sadie,QUAD,David,,CS 151,Python,Karel,
+9/14/2023,5:30,Spencer ,QUAD,Jerry,,DATA 501,R,Markdown; syntax,Y
+9/14/2023,6:00,Indi,QUAD,0,0,0,0,0,0
+9/14/2023,6:00 PM,Brooke,QUAD,0,0,0,0,0,0
+9/15/2023,3:00 PM,Tiffany,QUAD,Jackson,,CS 151,Python,Karel Checkerboard,Y
+9/17/2023,4:39 PM,Brooke,QUAD,Parker,pfgauldin@willamette.edu,CS 151,Python,Karel Checkerboard,Y
+9/17/2023,4:39 PM,Tiffany,QUAD,Amaya Supancich-mcCord,asupancichmccord@willamette.edu,CS 151,Python,Divisible by 6 or 7 problem ,Y
+9/17/2023,5:19 PM,Brooke,QUAD,Mara ,,CS 151,Python,Homework #2,Y
+9/18/2023,6:16,Kendall,QUAD,Aiyana Brown,,CS 151,Python,Karel,Y
+9/18/2023,6:15,Sophia,QUAD,Jackson,,CS 151,Python,Karel,N
+9/18/2023,8:00,Sophia,QUAD,Tam Lee,,DATA 151,R,Basic R environment coding,
+9/18/2023,6:30,Sophia,QUAD,Alex Kelley,,CS 151,Python,Karel,Y
+9/18/2023,7:00,Kendall,QUAD,Mia Parker,,,,,
+9/18/2023,6:00,Safia,QUAD,0,0,0,0,0,0
+9/18/2023,7:30,Safia,QUAD,0,0,0,0,0,0
+9/18/2023,6:13,Indi,QUAD,Sophia,,MATH 152,-,Test Review,Y
+9/18/2023,6:45,Indi,QUAD,Bradley,,MATH 251W,-,,
+9/20/2023,3:06,Destiny,QUAD,jackson,jbspector@willamette.edu,DATA 351,SQL,classwork #3,y
+9/20/2023,3:00,Thomas,QUAD,Riga,ragrubis@willamette.edu,MATH 138,R,Lab #1,Y
+9/20/2023,3:00,Thomas,QUAD,Aubrey Tuttle,amtuttle@willamette.edu,MATH 138,R,Lab #1,Y
+9/20/2023,3:00,Mitchell,QUAD,Chad Dobbs,ccdobbs@willamette.edu,DATA 501,R,HWK #1,Y
+9/20/2023,3:30,Thomas,QUAD,,,DATA 501,R,reading in a txt file,y
+9/20/2023,4:30,Mitchell,QUAD,Destiny,d,CS 351,SQL,Homework #2,Y
+9/20/2023,4:30,Mitchell,QUAD,Jackson,jbspector@willamette.edu,CS 351,SQL,Homework #2,Y
+9/20/2023,6:00,Kendall/Spencer,QUAD,David,,DATA 501,R,Homework #3,Y
+9/21/2023,3:00,Spencer ,QUAD,Chad Dobbs,ccdobbs@willamette.edu,DATA 502,R,Project Milestone #1,Y
+9/21/2023,3:30,Spencer ,QUAD,Addie Gage,,MATH 376,- ,Homework #4,Y
+9/21/2023,4:30,Tiffany,QUAD,0,0,0,0,0,0
+9/21/2023,7:00,Thomas,QUAD,Jodi,,MATH 138,R,Lab #1,
+9/21/2023,7:00,Thomas,QUAD,Peyton,,MATH 138,R,Lab #1,
+9/21/2023,7:30,Thomas,QUAD,Annabel,,MATH 138,R,Lab #1,
+9/22/2023,3:00 PM,Tiffany,QUAD,0,0,0,0,0,0
+9/20/2023,3:00,Mitchell,QUAD,Jackson,jbspector@willamette.edu,CS 351,SQL,Homework #2,Y
+9/24/2023,300,destiny Courtney,QUAD,adam son,ahson@willamette.edu,CS 151,CS,PROBLEM SET 3,Y
+9/24/2023,330,Destiny/ courtney,QUAD,,,DATA 501,R,using summarize function in R,Y
+9/24/2023,3:00 PM,Tiffany,QUAD,Chad Dobbs,chaddobbsii@gmail.com,DATA 501,R,HW #4-  ,Y
+9/24/2023,3:45,Mary (Section Leader),QUAD,,,CS 151,Python,PROBLEM SET 3,Y
+9/24/2023,3:45,Mary (Section Leader),QUAD,,,CS 151,Python,PROBLEM SET 3,Y
+9/24/2023,5:25 PM,Tiffany/Brooke,QUAD,Nicholas Moore,,CS 151,Python,Problem Set 3,Y
+9/25/2023,6:10 PM,Sophia,QUAD,Alex Kelley,,CS 151,Python,Problem Set 3,
+9/25/2023,6:00 PM,Safia,QUAD,0,0,0,0,0,0
+9/25/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,0
+9/25/2023,6:30 PM,Sophia,QUAD,Aiyana Brown,acbrown2@willamette.edu,CS 151,Python,Problem Set 3,Y
+9/25/2023,7:00 PM,Sophia,QUAD,Rodrigo ,,CS 151,Python,Problem Set 3,Y
+9/25/2023,8:00 PM,Sophia,QUAD,DJ,,CS 151,Python,Problem Set 3,Y
+9/26/2023,6:50 PM,Indi/Destiny,QUAD,Pen,,BIOL 245W,R,ggplot,Y
+9/26/2023,7:18,Destiny,QUAD,Preston,pmlau@willamette.edu,DATA 151,R,setting up a templet in R markdown ,Y
+9/26/2023,7:20,Destiny,QUAD,Ema,ekgazal@willamette.edu,DATA 151,R,DATA camp,Y
+9/26/2023,7:40,Indi,QUAD,,,CS 151,Python,Problem Set 3,Y
+9/27/2023,3:00,Destiny,QUAD,KALEINEY,kriveraramirez@willamette.edu,DATA 151,r,hw#4,Y
+9/27/2023,3:00,Destiny,QUAD,nyakuoth,njkuich@willamette.edu,DATA 151,r,hw#4,Y
+9/27/2023,3:40,Destiny,QUAD,Joanna,jmunderwood@willamette.edu,DATA 151,r,hw#4,Y
+9/27/2023,3:00,Mitchell,QUAD,Chad Dobbs,chaddobbsii@gmail.com,DATA 502,R,Viz help,Y
+9/27/2023,4:10,Mitchell,QUAD,Jerry McGlade,jmcglade@willamette.edu,DATA 501,R,Hw#3,Y
+9/27/2023,3:00,Thomas,QUAD,Malachi Washington,mbwashington@willamette.edu,MATH 138,R,Lab #2,Y
+9/27/2023,3:00,Thomas,QUAD,Aubrey Tuttle,amtuttle@willamette.edu,MATH 138,R,Lab #2,Y
+9/27/2023,4:30,Mitchell,QUAD,Sam Holmes,srholmes@willamette.edu,CS 151,Python,Wordle,Y
+9/27/2023,4:30,Mitchell,QUAD,Mara Kuntz,makuntz@willamette.edu,CS 151,Python,Wordle,Y
+9/27/2023,4:30,Thomas,QUAD,Logan Haslam,,MATH 138,R,Lab #2,Y
+9/27/2023,4:30,Mitchell,QUAD,jackson,jbspector@willamette.edu,DATA 351,SQL,classwork #3,Y
+9/27/2023,4:30,Thomas,QUAD,Jerry McGlade,jmcglade@willamette.edu,DATA 501,R,Hw#3,Y
+9/27/2023,4:30,Sophia,QUAD,David Dinh,ddihn@willamette.edu,DATA 501,R,HW4,Y
+9/27/2023,6:00,Kendall,QUAD,Jackson Spector,jbspector@willamette.edu,DATA 351,SQL,classwork #3,
+9/27/2023,6:00,Kendall,QUAD,,,CS 151,Python,Problem Set 3,Y
+9/27/2023,6:30,Kendall,QUAD,Sam Fenselau,,DATA 151,R,Midterm Prep,Y
+9/28/2023,3:20,Sadie,QUAD,Aiyana Brown,,CS 151,Python,Wordle,Y
+9/28/2023,4:45,Tiffany,QUAD,Adam Son,ahson@willamette.edu,CS 151,Python,Obenglobish,Y
+9/28/2023,5:00,Tiffany,QUAD,Sam Holmes,,CS 151,PYthon,Wordle ,Y
+9/28/2023,5:30,Tiffany,QUAD,Nicholas Moore,,CS 151,PYthon,worlde milestone1,Y
+9/28/2023,6:06,Brooke/Indi,QUAD,Nick,,CS 151,Python,Wordle Milestone 1,Y
+9/28/2023,6:00,Thomas,QUAD,Annabel,,MATH 138,R,Lab #2,Y
+9/28/2023,7:30,Thomas,QUAD,Jake,,MATH 138,R,Lab #2,Y
+9/28/2023,6:30,Brooke,QUAD,Haley,,CS 151,Python,Wordle Milestone 3,Y
+9/29/2023,3:15 PM,Courtney,QUAD,Mara,,CS 151,Python,Worldle,Y
+9/29/2023,4:47 PM,Tiffany,QUAD,Harry ,,CS 151,PYTHON,Wordle Milestone,Y
+10/1/2023,3:00,Destiny,QUAD,mara,,CS 151,PYTHON,WORDLE ,Y
+10/1/2023,3:00,courtney,QUAD,nickolas,,CS 151,Python,Wordle,Y
+10/1/2023,4:00,Brooke,QUAD,Haley,,CS 151,PYTHON,WORDLE,Y
+10/1/2023,4:05,Brooke,QUAD,,,CS 151,PYTHON,WORDLE,Y
+10/1/2023,4:05,Brooke,QUAD,,,CS 151,PYTHON,WORDLE,
+10/1/2023,5:32,Brooke,QUAD,Cody,ctimarong@willamette.edu,CS 151,Python,WORDLE,Y
+10/1/2023,5:36,Brooke,QUAD,Parker,pfgauldin@willamette.edu,CS 151,Python,Wordle,Y
+10/1/2023,5:15,Tiffany,QUAD,Harleen Brar,,CS 151,Python,Wordle,
+10/2/2023,6:00,Sophia,QUAD,,,CS 151,Python,Wordle,Y
+10/2/2023,7:00,Sophia,QUAD,Aiyana Brown,acbrown2@willamette.edu,CS 151,Python,Wordle,Y
+10/3/2023,6:00,Michael,QUAD,,,CS 151,Python,Wordle,
+10/4/2023,4:30,Sophia,QUAD,David Dihn,ddihn@willamette.edu,DATA 501,R,Midterm Review/Study Tips,Y
+10/4/2023,4:30,Thomas,QUAD,Jerry McGlade,jmcglade@willamette.edu,DATA 502,R,,Y
+10/4/2023,7:30,Safia,QUAD,0,0,0,0,0,0
+10/5/2023,6:00,Brooke,QUAD,0,0,0,0,0,0
+10/5/2023,6:00,Thomas,QUAD,0,0,0,0,0,0
+10/5/2023,7:30,Brooke,QUAD,0,0,0,0,0,0
+10/8/2023,3:00,Tiffany,QUAD,0,0,0,0,0,0
+10/8/2023,4:30,Brooke,QUAD,0,0,0,0,0,0
+10/8/2023,4:30,Tiffany,QUAD,0,0,0,0,0,0
+10/9/2023,6:00,Sophia,QUAD,0,0,0,0,0,0
+10/9/2023,7:30,Sophia,QUAD,0,0,0,0,0,0
+10/9/2023,6:00,Safia,QUAD,0,0,0,0,0,0
+10/9/2023,7:30,Safia,QUAD,0,0,0,0,0,0
+10/11/2023,3:00,Destiny ,QUAD,Sam,,DATA 151,R,Question about wrangling data,y
+10/11/2023,3:00,Mitchell,QUAD,Chad Dobbs,chaddobbsii@gmail.com,DATA 502,R,,Y
+10/12/2023,4:30 PM,Tiffany,QUAD,0,0,0,0,0,0
+10/12/2023,6:00 PM,Brooke,QUAD,Bella Malek,bymalek@willamette.edu,DATA 151,R,Unsure how to knit to HTML,Y
+10/12/2023,7:30,Brooke,QUAD,0,0,0,0,0,0
+10/13/2023,3:35,Mary (section leader),CS ,,,CS 151,Python,,
+10/15/2023,3:00,kaleiney,QUAD,Destiny,,DATA 151,r ,studying for modterm,Y
+10/15/2023,3:45,Courtney,QUAD,Parker Gauldin,pfgauldin@willamette.edu,CS 151,Python,Making an image in Problem Set 4,Y
+10/15/2023,4:00,Brooke/Tiffany,QUAD,Aiyana Brown,,CS 151,Python,Problem Set 4,Y
+10/15/2023,3:00 PM,Tiffany,QUAD,Jerry Mcglade,,DATA 502,Python,Project- Joining Data sets,Y
+10/16/2023,6:00,Kendall/Indi,QUAD,Aiyana Brown,,CS 151,Python ,Problem Set 4,Y
+10/16/2023,6:20,Kendall,QUAD,David Dihn,,DATA 501,R ,Homework #5,Y
+10/16/2023,6:00 PM,Safia,QUAD,Tobie Peters,,PSYCH 252,,Exam 2 prep (standard deviation and z scores),Y
+10/16/2023,7:30 PM,Safia,QUAD,Lianna,,PSYCH 252,,Exam 2 prep (standard deviation and z scores),Y
+10/16/2023,6:30 PM,Indi,QUAD,Jude,,CS 151,Python,Problem Set 4,Y
+10/16/2023,7:00 PM,Indi,QUAD,,,CS 151,Python,Problem Set 4,Y
+10/16/2023,7:45 PM,Indi,QUAD,Rodrigo,,CS 151,Python,Problem Set 4,Y
+10/16/2023,7:45 PM,Indi,QUAD,,,CS 151,Python,Problem Set 4,Y
+10/16/2023,6:20,Destiny ,QUAD,0,,DATA 151 ,R,how to use alpha in R,Y
+10/18/2023,3:10,Mitchell,QUAD,Chad Dobbs,chaddobbsii@gmail.com,DATA 501,R,For Loop Help,Y
+10/18/2023,3:49,Destiny ,QUAD,,,CS 151,Python,GRect not working ,Y
+10/18/2023,4:10,Mitchell,QUAD,Chad Dobbs,chaddobbsii@gmail.com,DATA 502,R,HWK help,Y
+10/18/2023,4:11,Destiny,QUAD,,,DATA 502,R,read in a file,Y
+10/18/2023,4:43,Mitchell,QUAD,David Erlich,dlerlich@willamette.edu,DATA 151,R,Project Help,Y
+10/18/2023,3:00,Thomas,QUAD,Aubrey Tuttle,amtuttle@willamette.edu,MATH 138,R,Lab #3,Y
+10/18/2023,4:30,Thomas,QUAD,Annabel Flannagan,aflannagan@willamette.edu,MATH 138,,HW help,Y
+10/18/2023,5:00,Mitchell,QUAD,Jerry McGlade,jmcglade@willamette.edu,DATA 501,R,HW help,Y
+10/18/2023,5:00,Sophia,QUAD,David Dihn,ddihn@willamette.edu,DATA 501,R,HW Help,Y
+10/18/2023,6:00,Spencer ,QUAD,Jerry McGlade,jmcglade@willamette.edu,DATA 501,R,HW Help,Y
+10/18/2023,7:30 PM,Safia,QUAD,Grace,,PSYCH 252,,Exam 2 prep,Y
+10/18/2023,7:30 PM,Safia,QUAD,Tobie,,PSYCH 253,,Exam 2 prep,Y
+10/18/2023,7:30 PM,Safia,QUAD,Sterlin,,PSYCH 254,,Exam 2 prep,Y
+10/18/2023,7:30 PM,Safia,QUAD,Bradley,,PSYCH 255,,Exam 2 prep,Y
+10/19/2023,3:20 PM,Sadie,QUAD,,,DATA 151,R,Final Project Help,Y
+10/19/2023,5:41 PM,Tiffany/Spencer,QUAD,Parker Gauldin,pfgauldin@willamette.edu,CS 151,Python,Breakout MIlestone 3,Y
+10/19/2023,5:41 PM,Spencer ,QUAD,,,CS 151,Python,Breakout ,Y
+10/19/2023,6:00 PM,Brooke,QUAD,Aiyana Brown,acbrown2@willamette.edu,CS 151,Python,Breakout Milestone 2-4,Y
+10/19/2023,6:00 PM,Brooke,QUAD,Sam Holmes,srholmes@willamette.edu,0,Python,Extra Credit Competition,Y
+10/19/2023,6:00,Thomas,QUAD,Heaven,,MATH 138,R,Lab #2,Y
+10/20/2023,3:05,Tiffany,QUAD,Hattie,,DATA 151,R,Uploading csv to r,y
+10/20/2023,3:05,Tiffany,QUAD,Saida,,DATA 151,R,Uploading csv to r,y
+10/20/2023,3:52,Mary (section leader),QUAD,Jude,jilayton@willamette.edu,CS 151,R,Breakout milestone 1/pacman,Y
+10/22/2023,3:00 PM,Tiffany,QUAD,Hailey,,CS 151,python,Breakout Milestone 1,Y
+10/22/2023,3:30,Destiny,QUAD,,,DATA 151,R,Merging Datasets in R,
+10/22/2023,3:30,Tiffany,QUAD,Parker Gauldin,pfgauldin@willamette.edu,CS 151,python,Breakout,Y
+10/22/2023,3:30,Destiny,QUAD,Mia,,DATA 151,R,Merging Datasets in R,Y
+10/22/2023,3:30:00 PM,Destiny,QUAD,Lucca,,DATA 151,R,Merging Datasets in R,N
+10/22/2023,3:50 PM,Tiffany/Mary,QUAD/CS,Alex,,CS 151,Python,Breakout Milestone #2,Y
+10/22/2023,5:00 PM,Brooke,QUAD,Evan,Works,CS 151,Python,Breakout Milestone #3,N
+10/22/2023,5:30,Tiffany,QUAD,Justin Green,jgreene2@willamette.edu,PHEAL 214,NA,Odds Ratio,Y
+10/23/2023,6:30,Kendall,QUAD,Tajh,,DATA 151,R,Milestone #4,Y
+10/23/2023,6:30,Kendall,QUAD,Lucca,,DATA 151,R,,
+10/23/2023,6:00 PM,Safia,QUAD,0,0,0,0,0,0
+10/23/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,0
+10/23/2023,7:30:00 PM,Indi,QUAD,Jude,,CS 151,Python,Breakout,Y
+10/23/2023,7:30:00 PM,Indi,QUAD,,,CS 151,Python,Breakout,Y
+10/23/2023,7:30:00 PM,Indi,QUAD,,,CS 151,Python,Breakout,Y
+10/23/2023,7:30:00 PM,Indi,QUAD,,,CS 151,Python,Breakout,Y
+10/23/2023,7:30:00 PM,Indi,QUAD,,,CS 151,Python,Breakout,Y
+10/23/2023,7:30:00 PM,Indi,QUAD,,,CS 151,Python,Breakout,Y
+10/23/2023,8:00:00 PM,Indi,QUAD,,,CS 151,Python,Breakout,Y
+10/23/2023,6:30 PM,Sophia/Kendall,QUAD,Mia von Haam,mmvonhaam@willamette.edu,DATA 151,R,Milestone 4,Y
+10/23/2023,6:30 PM,Sophia/Kendall,QUAD,Lucca Braudagan,lmbraudagan@willamette.edu,DATA 151,R,Milestone 4,Y
+10/23/2023,7:00 PM,Sophia,QUAD,Kate Rivera,kerivera@willamette.edu,DATA 151,R,Milestone 4,Y
+10/23/2023,7:00 PM,Sophia,QUAD,Carter Stoltz,cjstoltz@willamette.edu,DATA 151,R,Milestone 4,Y
+10/23/2023,7:30 PM,Sophia,QUAD,Sam Fenselau,safenselau@willamette.edu,DATA 151,R,Milestone 4,Y
+10/23/2023,8:45 PM,Sophia,QUAD,Brock Olson,baolson@willamette.edu,DATA 151,R,Milestone 4,Y
+10/23/2023,8:45 PM,Sophia,QUAD,Jack Carr,jkcarr@willamette.edu,DATA 151,R,Milestone 4,Y
+10/24/2023,6:09:00 PM,Destiny,QUAD,JD/Pierluca,,DATA 151,R,wrangling data ,Y
+10/24/2023,6:00:00 PM,Indi,QUAD,Logan,,MATH138,R,,Y
+10/24/2023,6:40:00 PM,,,Willl Sikes,whsikes@willamette.edu,CS 151,,Project,
+10/24/2023,7:15:00 PM,,,Jake Freeland,jrfreeland@willamette.edu,MATH138,,Project,
+10/24/2023,7:15:00 PM,,,Jodi Knight,jknight@willlamette.edu,MATH 138,,Project,
+10/25/2023,3:00 PM,Mitchell,QUAD,Chad,,DATA 501,R,Homework,Y
+10/25/2023,3:00 PM,Thomas,QUAD,Annabel Flannagan,arflannagan@willamette.edu,MATH 138,R,Lab 4,Y
+10/25/2023,3:00 PM,Thomas,QUAD,Juan David Alonso Garcia,jdalonsogarcia@willamette.edu,MATH 138,R,Lab 4,Y
+10/25/2023,3:00 PM,Thomas,QUAD,Aubrey Tuttle,amtuttle@willamette.edu,MATH 138,R,Lab 4,Y
+10/25/2023,3:00 PM,Marni,CS ,Mara Kuntz,makuntz@willamette.edu,CS 151,Python,Project Work,Y
+10/25/2023,3:43,Destiny,QUAD,Preston Lau,pmlau@willamette.edu,DATA 151,R,HW#6,Y
+10/25/2023,3:00 PM,Mary/Mitch,QUAD/CS,Amaya,,CS 151,Python,Project,Y
+10/25/2023,4:30 PM,Sophia,QUAD,0,0,0,0,0,0
+10/25/2023,6:00 PM,Sophia,QUAD,0,0,0,0,0,0
+10/25/2023,8:00 PM,,,Sarah Williams,sawilliams@willamette.edu,MATH 138,,Homework,
+10/26/2023,4:30 PM,Courtney,QUAD,0,0,0,0,0,0
+10/26/2023,5:30,,,Mia Parker,maparker@willamette.edu,CS 151,,,
+10/26/2023,5:45,Spencer ,QUAD,,,CS151,python,PGL Art Contest,Y
+10/26/2023,6:00,Thomas,QUAD,Heaven James,hsjames@willamette.edu,MATH 138,R,Lab 3,Y
+10/26/2023,6:00,Thomas,QUAD,Riga Grubis,ragrubis@willamette.edu,MATH 138,R,Lab 4,Y
+10/26/2023,6:40,,,Heaven James,hsjames@willamette.edu,MATH 138,,Project,
+10/26/2023,6:50,,,Riga Grubis,ragrubis@willamette.edu,MATH 138,,Project,
+10/26/2023,8:00,Thomas,QUAD,Jodi Knight,,MATH 138,R,Lab 3,Y
+10/26/2023,8:14,Brooke,QUAD,Bella Malek,bymalek@willamette.edu,DATA 151,R,Homework 6,Y
+10/26/2023,7:43,Faye,CS ,Aiyana Brown,acbrown2@willamette.edu,CS 151,Python,Problem Set 4,Y
+10/27/2023,3:05,Tiffany,QUAD,Colin,ckdavis@willamette.edu,DATA 151,R,Homework/Project/Programming,N
+10/27/2023,3:05,,,Matthew,mcnoren@willamett.edu,DATA 151,,Homework/Project/Programming,
+10/29/2023,3:00,Tiffany,QUAD,0,0,0,0,0,0
+10/29/2023,5:02,Brooke/Kendall,QUAD,Bella Malek,bymalek@willamette.edu,DATA 151,R,Homework 6,Y
+10/29/2023,5:09,Kendall,QUAD,Aiyana Brown,acbrown2@willamette.edu,CS 151,Python,Problem Set 4,Y
+10/30/2023,6:00 PM,,,Jude Layton,jilatyon@willamettte.edu,CS 151,,Homework,
+10/30/2023,6:07 PM,,,Alex Kelley,arkelley@willamette.edu,CS 151,,Homework,
+10/30/2023,6:21 PM,,,Rodrigo Guerrero,rgjuarez@willamette.edu,CS 151,,Homework,
+10/30/2023,6:21 PM,,,David Erlich,dlerlich@willamette.edu,CS/DS 151,,Homework,
+10/30/2023,6:38 PM,,,Sam Fenselau,safenselau@willamette.edu,DS 151,,Homework/Project,
+10/30/2023,6:40 PM,,,Haley Bohn,hnbohn@willamette.edu,DS 151,,Homework/Project,
+10/30/2023,8:05 PM,,,Aiyana Brown,acbrown2@willamette.edu,CS 151,,Homework/Programming,
+10/30/2023,8:05 PM,,,Ruby Laver,rclaver@willamette.edu,DS 151,,Homework/Project,
+10/30/2023,6:00,Safia,QUAD,0,0,0,0,0,0
+10/30/2023,7:30,Safia,QUAD,0,0,0,0,0,0
+10/31/2023,6:05,Destiny ,QUAD,Preston ,pmlau@willamette.edu,DATA 151,R,Homework #7,y
+10/31/2023,7:13,Destiny ,QUAD,Sam,scholmes@willamette.edu,DATA 151,R,Creating an rmarkdown and knitting to pdf,Y
+10/31/2023,4:03,Destiny ,QUAD,Jerry,,501,R,Filtering data ,
+10/31/2023,18:00,,,Logan Haslam,,Math 138,,Homework/Project,
+10/31/2023,6:10,,,Mia Parker,maparker@willamette.edu,CS 151,,Project,
+10/31/2023,7:35,,,Joshua Evans,jnevans@willamette.edu,DATA 151,,Project,
+11/1/2023,3:10,,,Mara Kuntz,makuntz@willamette.edu,CS 151,,Homework,
+11/1/2023,16:00,,,Jerry McGlade,jmcglade@willamette.edu,DATA 501,,Homework,
+11/2/2023,3:00,Spencer,QUAD,Aiyana Brown,acbrown2,CS 151,Python,,
+11/2/2023,3:00,Spencer/Sadie,QUAD,,,CS151,Python,,
+11/2/2023,4:18,Spencer,QUAD,Emily Larson,elarson,501,R,,
+11/2/2023,4:18,Spencer,QUAD,David,,501,R,,
+11/2/2023,4:30,Tiffany,QUAD,Emma Gazal,ekgazal,DATA151,R,,
+11/2/2023,6:00 PM,Brooke ,QUAD,Sally Wooster,sawooster@willamette.edu,DATA 151,R,Homework 7,
+11/2/2023,6:00 PM,Brooke ,QUAD,Bella Malek,bymalek@willamette.edu,DATA 151,R,Homework 7,Y
+11/2/2023,6:00 PM,Brooke ,QUAD,Tarquin Mayhew,tdmayhew@willamette.edu,DATA 151,R,Homework 7,
+11/2/2023,6:00 PM,Brooke ,QUAD,Andrew Henne,ahhenne@willamette.edu,DATA 151,R,Homework 7,
+11/3/2023,3:00 PM,Courtney,QUAD,Itzel ,,DATA 151,R,,Y
+11/5/2023,3:00 PM,Tiffany,CS ,Mary,,CS151,Python,Image Shop,Y
+11/5/2023,4:30 PM,Brooke ,QUAD,0,0,0,0,0,0
+11/5/2023,5:30 PM,Tiffany,CS ,Saul,,CS151,Python,Image Shop,
+11/6/2023,6:00 PM,Safia,QUAD,Tobie Peters,trpeters@willamette.edu,PSYCH 252,,Homework,Y
+11/6/2023,6:00 PM,Safia,QUAD,Maya Daniel,mcdaniel@willamette.edu,PSYCH 252,,Homework,Y
+11/6/2023,6:00 PM,Safia,QUAD,Grace Corsac,gmcorsac@willamette.edu,PSYCH 252,,Homework,Y
+11/6/2023,6:00 PM,Safia,QUAD,Aseret Medina,amedina3@willamette.edu,PSYCH 252,,Homework,Y
+11/6/2023,6:00 PM,Safia,QUAD,Brody Thomas,brthomas@willamette.edu,PSYCH 252,,Homework,Y
+11/6/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,0
+11/6/2023,6:10 PM,,,Rodrigo Guerrero,rgjuarez@willamette.edu,CS 151,,Homework,
+11/6/2023,7:00 PM,,,Aiyana Brown,,CS 151,,Project,
+11/6/2023,6:05 PM,,,Alex Kelley,arkelley@willamette.edu,CS 151,,Project,
+11/6/2023,8:00 PM,,,Parker Gauldin,pfgauldin@willamette.edu,CS 151,,Project,
+11/6/2023,6:00 PM,Sophia,QUAD,0,0,0,0,0,0
+11/6/2023,7:30 PM,Sophia,QUAD,0,0,0,0,0,0
+11/7/2023,6:50:00 PM,Destiny,QUAD,Preston,pmlau@willamette.edu,DATA 151,R,Homework #8 ,Y
+11/7/2023,6:17 PM,,,Alex Kelley,arkelley@willamette.edu,CS 151,,Project,
+11/7/2023,6:55 PM,,,Sam Holmes,srholmes@willamette.edu,DATA 151,,,
+11/7/2023,7:00 PM,,,Parker Gauldin,pfgauldin@willamette.edu,CS 151,,Project,
+11/8/2023,3:30,Destiny,QUAD,Sam,,DATA 151,R,Homework #8 question 14 and how to use max function,Y
+11/8/2023,4:25,Destiny,QUAD,Jackson,jbspector@willamette.edu,MATH 280,0,How to solve a quadratic equation for a 3x3 matrix,Y
+11/8/2023,4:30,Sophia,QUAD,David,ddinh@willamette.edu,DATA 501,R,stats in R/midterm study,y/n
+11/8/2023,5:15,Sophia,QUAD,jerry mcglade,jmcglade@willamette.edu,DATA 501,R,stats in R/midterm study,Y
+11/8/2023,7:30,Kendall,QUAD,Harleen Briar,hkbrar@willamette.edu,CS 151,Python,Exam Prep,Y
+11/8/2023,7:41,Spencer,QUAD,Jack Carr,jkcarr@willamette.edu,CS  151,Python,Image Shop,Y
+11/9/2023,3:00,Spencer,QUAD,Aiyana Brown,acbrown2@willamette.edu,CS 151,Python,Enigma,Y
+11/9/2023,5:45,,,Sam Holmes,srholmes@willamette.edu,CS 151,,,
+11/9/2023,6:10,,,Malachi Washington,mbwashington@willamette.edu,Math 138,,Homework,
+11/12/2023,4:00 PM,Destiny,QUAD,Lucca Braudaghan,lmbraudagan@willamette.edu,DATA 151,R,Project Milestone,Y
+11/12/2023,5:00 PM,Brooke,QUAD,Bella Malek,bymalek@willamette.edu,Data 151,R,Project Milestone,Y
+11/12/2023,5:30 PM,Tiffany,QUAD,Justin Greene,jgreene2@willamette.edu,PHEAL 214,,Screening  Homework,Y
+11/13/2023,6:00 PM,Sophia,QUAD,0,0,0,0,0,0
+11/13/2023,7:30 PM,Sophia,QUAD,0,0,0,0,0,0
+11/13/2023,6:00 PM,Safia,QUAD,Tobie Peters,trpeters@willamette.edu,PSYCH 252,,Homework,Y
+11/13/2023,6:00 PM,Safia,QUAD,Maya Daniel,mcdaniel@willamette.edu,PSYCH 252,,Homework,Y
+11/13/2023,6:00 PM,Safia,QUAD,Grace Corsac,gmcorsac@willamette.edu,PSYCH 252,,Homework,Y
+11/13/2023,6:00 PM,Safia,QUAD,Aseret Medina,amedina3@willamette.edu,PSYCH 252,,Homework,Y
+11/13/2023,6:30 PM,Safia,QUAD,Brody Thomas,brthomas@willamette.edu,PSYCH 252,,Homework,Y
+11/13/2023,7:30 PM,Safia,QUAD,Aseret Medina,amedina3@willamette.edu,PSYCH 252,,Homework,Y
+11/13/2023,,,,Samantha Lang,smlang@willamette.edu,DATA 151,,Homework,
+11/13/2023,7:00 PM,Indi,QUAD,Sam Holmes,srholmes@willamette.edu,CS 151,Python,Enigma,Y
+11/15/2023,3:10,,,Richard Wagner,rawagner@willamette.edu,CS 151,,Project,
+11/15/2023,15:00,,,Rodrigo Guerrero,rgjuarez@willamette.edu,CS 151,,Project,
+11/15/2023,3:48,,,Jack Carr,jkcarr@willamette.edu,CS 151,,Programming,
+11/15/2023,4:30,Mitchell,QUAD,Itzel Garibay Cervantes,srholmes@willamette.edu,DATA 151,R,,Y
+11/15/2023,3:34 PM,Destiny,QUAD,Sam Holmes,srholmes@willamette.edu,DATA 151,R,install tidy verse package ,
+11/15/2023,4:30,Mitchell,QUAD,Sam Holmes,srholmes@willamette.edu,CS 151,Python,Enigma,Y
+11/15/2023,4:30,Mitchell,QUAD,Mia Parker,maparker@willamette.edu,CS 151,Python,Enigma,Y
+11/15/2023,3:00,Thomas,QUAD,Michael Kachanyuk,mkachanyuk@willamette.edu,DATA 151,R,Final Project,Y
+11/15/2023,4:30,Thomas,QUAD,Aubrey Tuttle,atuttle@willamette.edu,MATH 138,R,Lab 5,Y
+11/15/2023,4:30,Sophia,QUAD,Eric Fontaine,efontaine@willamette.edu,DATA 502,R,ggplot ,Y
+11/15/2023,5:00 PM,Sophia,QUAD,Itzel Garibay Cervantes,igaribay@willamette.edu,DATA 151,R,folder organization,N
+11/15/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,0
+11/15/2023,8:00 PM,,,Itzel Garibay Cervantes,igaribay@willamette.edu,DATA 151,R,Homework,
+11/16/2023,15:00,,,Lane Mikkelsen,lrmikkelsen@willamette.edu,DATA 151,,Project,
+11/16/2023,4:58,Spencer,QUAD,Joshua Evans,jnevans,DATA151,R,Project Milestone,
+11/16/2023,4:00,Spencer/Courtney,QUAD,Aiyana Brown,acbrown2,CS151,R,Enigma,N
+11/16/2023,19:00,,,Rodrigo Guerrero,rgjuarez,CS151,,Project,
+11/16/2023,7:30,Thomas,QUAD,Jake Freeland,jrfreeland@willamette.edu,MATH 138,R,Lab 5,Y
+11/16/2023,8:35,Brooke,QUAD,Aiyana Brown,acbrown2,CS151,CS,Enigma,Y
+11/17/2023,3:00,Courtney,QUAD,Emma Schneider,emschneider,CS151,python,Enigma,Y
+11/17/2023,3:43,Destiny,QUAD,Sam,srholmes,DATA 151,R ,Seperating data from a column,
+11/19/2023,3:00 PM,Safia,QUAD,Brady R Thomas,brthomas,PSYC 252W,,Homework,Y
+11/19/2023,4:30,Safia,QUAD,0,0,0,0,0,0
+11/19/2023,3:12,Tiffany/Mary,QUAD/CS,Alex Kelley,arKelley,CS151,Python,Enigma,Y
+11/19/2023,3:10,Tiffany/Mary,QUAD/CS,Parker Gauldin,pfgauldin,CS151,Python,Enigma,Y
+11/19/2023,3:00,Sophia,QUAD,0,0,0,0,0,0
+11/19/2023,3:30,,,Sam Holmes,srholmes,Data 151,,,
+11/19/2023,4:30,Brooke,QUAD,0,0,0,0,0,0
+11/19/2023,5:30,Tiffany,QUAD,Aiyana Brown,acbrown2@willamette.edu,CS 151,,Project,
+11/20/2023,6:20,,,Kendra Hutchinson,kshutchinson@willamette.edu,DATA 151,,Homework,
+11/20/2023,6:40,,,Alex Kelley,arkelley@willamette.edu,CS 151,,Project,
+11/20/2023,7:00 PM,,,Parker Gauldin,pfgauldin@willamette.edu,CS 151,,Project,
+11/20/2023,6:00 PM,Sophia,QUAD,0,0,0,0,0,0
+11/20/2023,7:30 PM,Sophia,QUAD,0,0,0,0,0,0
+11/27/2023,7:00 PM,Sophia,QUAD,Joshua Evans,jnevans@willamette.edu,DATA 151,R,final project,Y
+11/27/2023,8:00 PM,Sophia,QUAD,Julien Trobaugh,jtrobaugh@willamette.edu,DATA 151,R,final project,Y
+11/28/2023,6:00 PM,,,Sam Holmes,srholmes@willamette.edu,CS 151,,project,
+11/28/2023,6:00 PM,,,Mia Parker,maparker@willamette.edu,CS 151,,project,
+11/28/2023,6:20 PM,,,Saida Seelig,srseelig@willamette.edu,DATA 151,,project,
+11/28/2023,7:40 PM,,,Jackson,,MATH 280,,homework,
+11/29/2023,4:00 PM,,,Sam Holmes,srholmes@willamette.edu,CS 151,,project,
+11/29/2023,3:00 PM,,,Teo Mendoza,Teo Mendoza,DATA 151,,homework,
+11/29/2023,3:00 PM,,,Kaleiney Rivera,Kaleiney Rivera-Ramirez,data 151,,homework,
+11/29/2023,3:00 PM,,,Nyakouth Kuich,Nyakuoth Kuich,data 151,,homework,
+11/29/2023,6:42 PM,,,Sam Holmes,srholmes@willamette.edu,CS 151,,project,
+11/29/2023,7:30 PM,Safia,QUAD,Tobie Peters,Tobie Peters,PSYCH 252,,final exam,Y
+11/29/2023,7:30 PM,Safia,QUAD,Grace,Grace Corsac,PSYCH 253,,final exam,Y
+11/29/2023,7:30 PM,Safia,QUAD,Brody,Brody Thomas,PSYCH 254,,final exam,Y
+11/29/2023,7:30 PM,Safia,QUAD,Lane,Lane Lyman,PSYCH 255,,final exam,Y
+11/29/2023,7:30 PM,Safia,QUAD,Aseret,Aseret Medina,PSYCH 256,,final exam,Y
+11/29/2023,3:30 PM,,,Mia Parker,Mia Parker,CS 151,,project,
+11/29/2023,7:15 PM,,,Lane Mikkelsen,Lane Mikkelsen,Data 151,,project,
+11/30/2023,3:00,Sadie,QUAD,Aiyana Brown,Aiyana Brown,CS151,Python,Adventure,
+11/30/2023,3:10,Sadie,QUAD,Richard Wagner,Richard Wagner,CS151,,Adventure,
+11/30/2023,7:52,Brooke,QUAD,Samantha Lang,Samantha Lang,DATA 151,R,Homework 8,Y
+12/1/2023,3:00,Courtney,QUAD,Itzel Garibay Cervantes,Itzel Garibay Cervantes,DATA 151,R,Homework,Y
+12/3/2023,3:10,Courtney,QUAD,Alex Kelley,arkelley@willamette.edu,CS151,python,Adventure,
+12/3/2023,3:15 PM,Courtney,QUAD,Richard Wagner,rawagner@willamette.edu,CS151,python,Adventure,
+12/3/2023,3:55,Courtney,QUAD,Will Sikes,whsikes@willamette.edu,CS151,python,Adventure,
+12/3/2023,4:20,Destiny/Tiffany,QUAD,Josie Pipatnangkura,jlpipatanangkura@willamette.edu,BIO342,R,PCA and Scree plot,
+12/3/2023,4:20,Courtney/Brooke,QUAD,Aiyana Brown,Aiyana Brown,CS151,python,Adventure,
+12/3/2023,3:00 PM,,,Sadie Levin,Sadie Levin,MATH 280,,project,
+12/4/2023,6:00 PM,,,Sam Holmes,Sam Holmes,CS 151,,Project,
+12/4/2023,6:18 PM,,,Alex Kelley,Alex Kelley,CS 151,,Project,
+12/4/2023,6:30 PM,,,Rodrigo Guerrero,Rodrigo Juarez,CS 151,,Project,
+12/4/2023,7:15 PM,,,Will Sikes,William Sikes,CS 151,,Project,
+12/4/2023,7:00 PM,,,Aiyana Brown,Aiyana Brown,CS 151,,Project,
+12/4/2023,7:00 PM,,,Preston Lau,Preston Lau,DS 151,,Homework,
+12/4/2023,8:30 PM,Sophia,QUAD,Brayden Duke,Brayden Duke,DS 151,,Other,
+12/4/2023,6:00 PM,Safia,QUAD,0,0,0,0,0,0
+12/4/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,0
+12/5,7:30 PM,,,Will Sikes,William Sikes,,,Project,
+12/6/2023,3:00 PM,Thomas,QUAD,Malachi Washington,mbwashington@willamette.edu,MATH 138,,Final prep,Y
+12/6/2023,3:00 PM,Thomas,QUAD,Jeronimo Fuentes,jvfuentes@willamette.edu,MATH 138,,Final prep,Y
+12/6/2023,4:30 PM,Sophia,QUAD,0,0,0,0,0,0
+12/6/2023,3:30,,QUAD,Parker Gauldin,Parker Gauldin,CS,,Project,
+12/6/2023,6:40 PM,Spencer ,QUAD,Evan Works,Evan Works,CS 151,,Project,
+12/7/2023,4:30 PM,Tiffany,QUAD,Preston Lau,Preston Lau,DATA 151,R,Joins for Final Project ,Y
+12/7/2023,6:00 PM,Spencer ,,Jude Layton,Jude Layton,CS 151,,Programming,
+12/7/2023,6:00 PM,Thomas,QUAD,Ella Storm,ebstorm@willamette.edu,MATH 138,,Final prep,Y
+12/7/2023,8:00 PM,,,Sam Holmes,Sam Holmes,CS 151,,Programming,
+12/7/2023,,,,Alex Kelley,Alex Kelley,CS 151,,Project,
+12/8/2023,3:00,Courtney,QUAD,Parker Gauldin,Parker Gauldin,CS151,Python,Adventure,Y
+12/8/2023,3:20,,QUAD,Conor Murphy,cjmurphy,CS152,Python,Project,
+12/8/2023,3:34,Tiffany,QUAD,Kristen Nakagawa,Kbnakagawa,MATH 138,,,Y
+12/8/2023,3:35,Tiffany,QUAD,Justin Greene,Jgreene2,PHEAL 214,,,Y
+12/9/2023,3:15,Destiny,QUAD,Leila Fischer,Leila Fischer,,R,Project,Y
+12/9/2023,4:00 PM,,QUAD,Preston Lau,Preston Lau,,R,Project,Y
+12/9/2023,4:00 PM,,,Kristen Nakagawa,Kristen Nakagawa,Math 138,,,
+12/9/2023,4:30,,,Justin Greene,Justin Greene,PHEAL 214,,,
+12/11/2023,6:00 PM,Safia,QUAD,0,0,0,0,0,0
+12/11/2023,7:30 PM,Safia,QUAD,0,0,0,0,0,
+12/11/2023,8:00 PM,,,Joshua Evans,Joshua Evans,DATA 151,,Project,
+12/11/2023,8:00 PM,,,Julien Trobaugh,Julien Trobaugh,DATA 151,,Project,
